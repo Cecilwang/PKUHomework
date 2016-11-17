@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/a.jpg",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/a.jpg"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/b.jpg",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/b.jpg"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_wifi_s1.png",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/ic_wifi_s1.png"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_wifi_s0.png",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/ic_wifi_s0.png"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_wifi.xml",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/ic_wifi.xml"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_wifi_s3.png",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/ic_wifi_s3.png"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_wifi_s2.png",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/ic_wifi_s2.png"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bb.jpg",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/drawable-hdpi/bb.jpg"
+    }
+]

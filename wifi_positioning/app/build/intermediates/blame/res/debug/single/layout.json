@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/layout/activity_wifi_list.xml",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/layout/activity_wifi_list.xml"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/layout/item_wifi_list.xml",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/layout/item_wifi_list.xml"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/layout/activity_sampling.xml",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/layout/activity_sampling.xml"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/cecilwang/project/wifi_positioning/app/build/intermediates/res/merged/debug/layout/activity_tracking.xml",
+        "source": "/home/cecilwang/project/wifi_positioning/app/src/main/res/layout/activity_tracking.xml"
+    }
+]
