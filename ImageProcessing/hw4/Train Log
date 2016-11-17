@@ -1,0 +1,124 @@
+Train is starting
+Creat Haar Feature
+Adaboost is starting
+--Calculate feature result done!
+----The 1th classifier
+-------Calculate error done!
+-------feature 27478 weight 0.89588 p 1 theta -11.48431 error 0.1428571
+----The 2th classifier
+-------Calculate error done!
+-------feature 4022 weight 0.83222 p 1 theta 26.42314 error 0.1428571
+----The 3th classifier
+-------Calculate error done!
+-------feature 46785 weight 0.65560 p 1 theta 16.94627 error 0.0771429
+----The 4th classifier
+-------Calculate error done!
+-------feature 3356 weight 0.76434 p 1 theta 16.94627 error 0.0857143
+----The 5th classifier
+-------Calculate error done!
+-------feature 55288 weight 0.71283 p 1 theta 16.94627 error 0.0214286
+----The 6th classifier
+-------Calculate error done!
+-------feature 23864 weight 0.76628 p 1 theta -58.86863 error 0.0628571
+----The 7th classifier
+-------Calculate error done!
+-------feature 4282 weight 0.61472 p 1 theta 45.37686 error 0.0185714
+----The 8th classifier
+-------Calculate error done!
+-------feature 46344 weight 0.58735 p 1 theta 50.11529 error 0.0171429
+----The 9th classifier
+-------Calculate error done!
+-------feature 7099 weight 0.63862 p 1 theta -87.29922 error 0.0114286
+----The 10th classifier
+-------Calculate error done!
+-------feature 56993 weight 0.53768 p 1 theta -2.00745 error 0.0157143
+----The 11th classifier
+-------Calculate error done!
+-------feature 44797 weight 0.56891 p 1 theta 78.54588 error 0.0071429
+----The 12th classifier
+-------Calculate error done!
+-------feature 10115 weight 0.62187 p 1 theta -25.69961 error 0.0085714
+----The 13th classifier
+-------Calculate error done!
+-------feature 55935 weight 0.50484 p 1 theta 16.94627 error 0.0057143
+----The 14th classifier
+-------Calculate error done!
+-------feature 10781 weight 0.54930 p 1 theta 26.42314 error 0.0028571
+----The 15th classifier
+-------Calculate error done!
+-------feature 55910 weight 0.57376 p 1 theta -2.00745 error 0.0042857
+----The 16th classifier
+-------Calculate error done!
+-------feature 34897 weight 0.58198 p 1 theta -25.69961 error 0.0014286
+----The 17th classifier
+-------Calculate error done!
+-------feature 35213 weight 0.51962 p 1 theta 7.46941 error 0.0014286
+----The 18th classifier
+-------Calculate error done!
+-------feature 27999 weight 0.58066 p 1 theta 7.46941 error 0.0000000
+----The 19th classifier
+-------Calculate error done!
+-------feature 3571 weight 0.61894 p 1 theta 7.46941 error 0.0014286
+----The 20th classifier
+-------Calculate error done!
+-------feature 9389 weight 0.60035 p 1 theta -11.48431 error 0.0000000
+----The 21th classifier
+-------Calculate error done!
+-------feature 9429 weight 0.49285 p 1 theta -2.00745 error 0.0000000
+----The 22th classifier
+-------Calculate error done!
+-------feature 2968 weight 0.52976 p 1 theta 7.46941 error 0.0000000
+----The 23th classifier
+-------Calculate error done!
+-------feature 10237 weight 0.54309 p 1 theta 16.94627 error 0.0000000
+----The 24th classifier
+-------Calculate error done!
+-------feature 56502 weight 0.60505 p 1 theta -11.48431 error 0.0000000
+----The 25th classifier
+-------Calculate error done!
+-------feature 32227 weight 0.52137 p 1 theta -11.48431 error 0.0000000
+----The 26th classifier
+-------Calculate error done!
+-------feature 49491 weight 0.50430 p 1 theta 50.11529 error 0.0000000
+----The 27th classifier
+-------Calculate error done!
+-------feature 5334 weight 0.59889 p 1 theta -63.60706 error 0.0000000
+----The 28th classifier
+-------Calculate error done!
+-------feature 46270 weight 0.52208 p 1 theta 50.11529 error 0.0000000
+----The 29th classifier
+-------Calculate error done!
+-------feature 2908 weight 0.52018 p 1 theta 2.73098 error 0.0000000
+----The 30th classifier
+-------Calculate error done!
+-------feature 10277 weight 0.41896 p 1 theta -35.17647 error 0.0000000
+----The 31th classifier
+-------Calculate error done!
+-------feature 3361 weight 0.55904 p 1 theta 7.46941 error 0.0000000
+----The 32th classifier
+-------Calculate error done!
+-------feature 2709 weight 0.52637 p 1 theta 7.46941 error 0.0000000
+----The 33th classifier
+-------Calculate error done!
+-------feature 10077 weight 0.48837 p 1 theta -25.69961 error 0.0000000
+----The 34th classifier
+-------Calculate error done!
+-------feature 61619 weight 0.51668 p 1 theta 16.94627 error 0.0000000
+----The 35th classifier
+-------Calculate error done!
+-------feature 10847 weight 0.66020 p 1 theta 45.37686 error 0.0000000
+----The 36th classifier
+-------Calculate error done!
+-------feature 27929 weight 0.44086 p 1 theta 7.46941 error 0.0000000
+----The 37th classifier
+-------Calculate error done!
+-------feature 52862 weight 0.44483 p 1 theta -6.74588 error 0.0000000
+----The 38th classifier
+-------Calculate error done!
+-------feature 23243 weight 0.54964 p 1 theta 31.16157 error 0.0000000
+----The 39th classifier
+-------Calculate error done!
+-------feature 8686 weight 0.52626 p 1 theta -2.00745 error 0.0000000
+----The 40th classifier
+-------Calculate error done!
+-------feature 22975 weight 0.55521 p 1 theta -77.82235 error 0.0000000
