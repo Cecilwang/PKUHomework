@@ -1,0 +1,83 @@
+created usb_vhci_hcd.0 (bus# 3)
+got port stat work
+status: 0x0100
+change: 0x0000
+flags:  0x00
+port is powered on -> connecting device
+got port stat work
+status: 0x0101
+change: 0x0001
+flags:  0x00
+got port stat work
+status: 0x0101
+change: 0x0000
+flags:  0x00
+got port stat work
+status: 0x0111
+change: 0x0000
+flags:  0x00
+port is resetting
+-> completing reset
+got port stat work
+status: 0x0103
+change: 0x0010
+flags:  0x00
+got port stat work
+status: 0x0103
+change: 0x0000
+flags:  0x00
+got process urb work
+GET_DESCRIPTOR
+DEVICE_DESCRIPTOR
+got port stat work
+status: 0x0111
+change: 0x0000
+flags:  0x00
+port is resetting
+-> completing reset
+port is disabled
+got port stat work
+status: 0x0103
+change: 0x0010
+flags:  0x00
+got port stat work
+status: 0x0103
+change: 0x0000
+flags:  0x00
+got process urb work
+SET_ADDRESS
+got process urb work
+GET_DESCRIPTOR
+DEVICE_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+CONFIGURATION_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+CONFIGURATION_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+STRING_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+STRING_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+STRING_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+STRING_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+STRING_DESCRIPTOR
+got process urb work
+GET_DESCRIPTOR
+STRING_DESCRIPTOR
+got process urb work
+SET_CONFIGURATION

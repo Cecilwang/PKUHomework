@@ -1,0 +1,1 @@
+/boot/System.map-2.6.18-308.4.1.el5

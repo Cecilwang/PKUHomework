@@ -1,0 +1,1 @@
+cmd_/home/cecilwang/hw/3/hello-2.mod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cecilwang/hw/3/hello-2.mod.ko /home/cecilwang/hw/3/hello-2.mod.o /home/cecilwang/hw/3/hello-2.mod.mod.o

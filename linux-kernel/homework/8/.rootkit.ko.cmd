@@ -1,0 +1,1 @@
+cmd_/home/cecilwang/hw/8/rootkit.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cecilwang/hw/8/rootkit.ko /home/cecilwang/hw/8/rootkit.o /home/cecilwang/hw/8/rootkit.mod.o

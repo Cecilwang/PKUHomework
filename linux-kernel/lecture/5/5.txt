@@ -1,0 +1,42 @@
+第五次问题总结 汪思学 1300012784
+
+1.以下不属于Resource bugs的是？
+A.Null pointer   B.Using an uninitialized variable   C.Buffer overflow   D.Arithmetic overflow or underflow
+答案D
+
+2.标准预定义宏中表示当前函数名的宏是？
+A.__FILE__   B.__LINE__   C.__FUNCTION__   D.__DATE__
+答案C
+
+3.将调用函数列表导出到缓冲区，而不需要输出时，选择以下哪个函数？
+A.backtrace    B.backtrace_symbols    C.backtrace_symbols_fd   D.以上都不是
+答案A
+
+4.以下哪个调用分析工具是GNU自带的？
+A.gprof   B.google-perftools   C.intel-vTunes   D.callgrind
+答案A
+
+5.若要启用gprof，gcc时应该添加哪个参数?
+A.-pg   B.-L   C.-I   D.-o
+答案A
+
+6.Syslog Message Facilities中kernel messages的级别是？
+A.0   B.1   C.2   D.3
+答案A
+
+7.Syslog Message Severities中Debug的级别是？
+A.5   B.6   C.7   D.8
+答案C
+
+8.以下属于调试方法的是？
+A.print   B.Saff Squeeze   C.Bisection   D.以上都是
+答案D
+
+9.无限循环引起的bug属于？
+A.crash   B.hang   C.visual defect   D.documentation error
+答案B
+
+10.Linux内核自带的转储内存的工具是？
+A.Kdump   B.diskdump   C.netdump   D.以上都不是
+答案A
+

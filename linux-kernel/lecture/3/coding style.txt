@@ -1,0 +1,65 @@
+1.  tabs and indentations are 8 characters
+2.  switch case in the same column
+3.  Don't put multiple statements on a single line unless you have something 
+    to hide
+4.  Don't put multiple assignments on a single line either
+5.  Outside of comments, documentation and except in Kconfig, spaces are never
+    used for indentation
+6.  don't leave whitespace at the end of lines
+7.  The limit on the length of lines is 80 columns
+8.  Descendants are always substantially shorter than the parent and are 
+    placed substantially to the right.
+9.  never break user-visible strings such as printk messages
+10. put the opening brace last on the line, and put the closing brace first, 
+    expect for function(openning brace at the beginnning of the next line)
+11. Do not unnecessarily use braces where a single statement will do;This does
+    not apply if only one branch of a conditional statement is a single 
+    statement;
+12. So use a space after these keywords:
+        if, switch, case, for, do, while
+    but not with sizeof, typeof, alignof, or __attribute__.  E.g.,
+        s = sizeof(struct file);
+    Do not add spaces around (inside) parenthesized expressions.
+13. pointer: '*' is adjacent to the name
+14. use one space around (on each side of) most binary or ternary operators
+    no space after unary operators
+        &  *  +  -  ~  !  sizeof  typeof  alignof  __attribute__  defined
+    no space after or before ++ --
+15. GLOBAL variables (to be used only if you _really_ need them) need to
+    have descriptive names, as do global functions. 
+16. typedef
+        totally opaque objects
+        Clear integer types
+        when you use sparse to literally create a _new_ type for type-checking
+        New types which are identical to standard C99 types.
+        Types safe for use in userspace.
+17. Functions should fit on one or two screenfuls of text (24-48 line), and do 
+    one thing.
+18. The number of function local variables shouldn't exceed 5-10        
+19. separate functions with one blank line
+20. EXPORT* macro for functions should follow immediately
+21. In function prototypes, include parameter names with their data types.
+22. NEVER try to explain HOW your code works in a comment, explain WAHT your 
+    code does
+23. put comments at the head, avoid inside a function body
+24. kernel API functions use kernel-doc format
+25. Linux style for comments is C89 /*...*/ style, not C99 //
+26. long comments the fisrt is a blank line, but net/ and adrivers/net/ is not
+27. Kconfig configuration files are indented with one tab, but help text is 
+    indented two spaces.
+28. Data structures should always have reference counts, and locking is not a 
+    replacement.
+29. Names of macros defining constants and labels in enums are capitalized.
+30. Macros with multiple statements should be enclosed in a do - while block
+31. Things to avoid when using macros:
+        macros that affect control flow
+        macros that depend on having a local variable with a magic name
+        macros with arguments that are used as l-values: FOO(x) = y;
+        forgetting about precedence
+32. p = kmalloc(sizeof(*p), ...);
+    p = kmalloc_array(n, sizeof(...), ...);
+    p = kcalloc(n, sizeof(...), ...);
+33. not put inline at functions that have more than 3 lines of code in them
+34. If the name of a function is an action or an imperative command,
+	the function should return an error-code integer.  If the name
+	is a predicate, the function should return a "succeeded" boolean.

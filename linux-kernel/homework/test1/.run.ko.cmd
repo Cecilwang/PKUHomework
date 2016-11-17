@@ -1,0 +1,1 @@
+cmd_/home/cecilwang/hw/test1/run.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cecilwang/hw/test1/run.ko /home/cecilwang/hw/test1/run.o /home/cecilwang/hw/test1/run.mod.o

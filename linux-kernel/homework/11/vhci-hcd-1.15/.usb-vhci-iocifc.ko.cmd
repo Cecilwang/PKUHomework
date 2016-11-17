@@ -1,0 +1,1 @@
+cmd_/home/cecilwang/hw/11/vhci-hcd-1.15/usb-vhci-iocifc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cecilwang/hw/11/vhci-hcd-1.15/usb-vhci-iocifc.ko /home/cecilwang/hw/11/vhci-hcd-1.15/usb-vhci-iocifc.o /home/cecilwang/hw/11/vhci-hcd-1.15/usb-vhci-iocifc.mod.o

@@ -1,0 +1,48 @@
+build  维护软件、内核 自动重建 build automation
+	
+	GNU autotools
+
+	./configure -> makefile -> make -> make install
+
+	CI continuous integration   -> HELL
+
+Make
+	make > /dev/null
+	手册
+	make help
+	menuconfig  先复制一个config
+	randconfig
+	gtags
+	header
+	Documentation/kbuild/makefiles.txt
+
+
+内核编译、更新
+	head Makefile
+	git 分支 show-branch
+	./scripts/diffconfig
+	-j多线程
+	ccache /usr/bin /usr/local/bin /home/bin
+	depmod grub.config
+	
+
+模块
+	dkms、kmod
+	modpobe
+	Forced module loading  -f
+	modinfo
+	rootkit安全
+	
+
+tap 不是空格  tag长度=8空格长度
+
+	./scripts/checkpath.pl
+	
+
+	
+
+
+
+
+
+

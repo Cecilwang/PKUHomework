@@ -1,0 +1,69 @@
+1. NVIDIA Tesla K40的架构
+A.Kepler 
+B.Femi 
+C.Maxwell 
+D.Pascal
+答案A
+
+2. GTX TITAN X的架构
+A.Kepler 
+B.Femi 
+C.Maxwell 
+D.Pascal
+答案C
+
+3. SSE3在SSE2的基础上增加了几个额外的SIMD指令
+A.13 
+B.31 
+C.32 
+D.23
+答案A
+
+4. 现场可编程门阵列是？
+A.ASIC 
+B.FPGA                    
+C.CPLD 
+D.ASIP
+答案B
+
+5. 中断描述符表寄存器
+A.QDTR 
+B.IDTR 
+C.IPTR 
+D.PCTR
+答案B
+
+6. 加载中断描述符表的汇编指令
+A.lidt 
+B.sidt 
+C.likt 
+D.sikt
+答案A
+
+7. 现场可编程门阵列是？
+A.ASIC 
+B.FPGA 
+C.CPLD 
+D.ASIP
+答案B
+
+8. unreal mode还被称作
+A.big real mode 
+B.huge real mode
+C.flat real mode
+D.以上都是
+答案D
+
+9. 由AMD开发的SIMD多媒体指令集？
+A.SSE 
+B.3DNow 
+C.MMX 
+D.FPU
+答案B
+
+10.对称多处理器是指？
+A.AMP 
+B.SMP 
+C.TMP 
+D.CMP
+答案B

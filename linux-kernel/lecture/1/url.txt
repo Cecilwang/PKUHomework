@@ -1,0 +1,53 @@
+LSB				https://en.wikipedia.org/wiki/Linux_Standard_Base
+				LSB的目标是什么？
+				基于wiki的个人回答：LSB是一种规范，为了软件在移植后也可以（以二进制方式）正常运行。
+
+sudo				https://en.wikipedia.org/wiki/Sudo
+				program /etc/sudoers
+
+RBAC				https://en.wikipedia.org/wiki/Role-based_access_control
+				MAC mandatory access control
+				DAC discretionary access control
+
+runlevel			https://en.wikipedia.org/wiki/Runlevel
+				LSB 
+				0	Halt	Shuts down the system.
+				1	Single-user mode	Mode for administrative tasks.[2][b]
+				2	Multiuser mode	Does not configure network interfaces and does not export networks services.[c]
+				3	Multiuser mode with networking	Starts the system normally.[1]
+				4	Not used/user-definable	For special purposes.
+				5	Start the system normally with appropriate display manager (with GUI)	Same as runlevel 3 + display manager.
+				6	Reboot
+
+package management system 	1种package格式
+
+
+
+LSB是一种？  
+	A.程序 B.硬件 C.规范 D.以上都不是		答案：C
+sudo是一种？ 
+	A.关键字 B.程序 C.规范 D.以上都不是		答案：B
+ubuntu下重启的runlevel是几？ 
+	A.0 B.1 C.5 D.6					答案：D
+包管理系统中有几种包格式(package format)？
+	A.没有包格式 B.1种 C.多种 D.以上都不是		答案：B
+请问以下哪个目录下的文件可以配置apt获取特定版本的包？
+	A.apt.conf.d  B.preferences.d   C.sources.list.d  D.trusted.gpg.d 	
+							答案：B
+请问以下错误的是？
+	A.An installation process usually needs a user .
+	B.Silent installation is performed without user interaction.
+	C.All silent installations are unattended.
+	D.All unattended installations are silent		
+							答案：D
+
+IDE包含以下那个部分？
+	A.source code editor B.debugger 
+	C.compiler	     D.以上都是			答案：D
+Word文件以什么形式储存文件？
+	A.UTF-8 B.ASCII	C.二进制格式 D.以上都不是	答案：C
+Ubuntu server中默认的用户接口是？
+	A.CLI B.GUI C.X11 D.以上都不是			答案：A
+
+VirtualBox 的共享文件夹若为自动挂载，在LINUX下默认的文件夹挂载在那个目录下？
+	A. ~/mnt B. ~/media C. /mnt D. /media		答案：B
