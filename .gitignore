@@ -1,0 +1,35 @@
+##easytaskserver###
+easytaskserver/node_modules
+easytaskserver/npm-debug.log
+easytaskserver/nohup.out
+
+
+
+#######android#####
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+wifi_positioning/bin/
+wifi_positioning/gen/
+
+# Local configuration file (sdk path, etc)
+wifi_positioning/local.properties
+
+# Android Studio
+*.iml
+wifi_positioning/.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+wifi_positioning/.gradle
+wifi_positioning/build/
+
+#NDK
+wifi_positioning/obj/
